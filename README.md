@@ -13,3 +13,4 @@ of decision trees. The code also cleans the data first, make data ready for appl
 dealing with missing values, removing duplicates, etc. The obtained decision trees can be used by the organization to conclude a particular
 decision. The accuracy of the model and confusion matrices have been shown and calculated in the report of this project. The report can be 
 found over here.
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
